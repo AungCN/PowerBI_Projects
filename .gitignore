@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Power BI temporary, recovery, and local cache files
+~$*.pbix
+~$*.pbit
+*.pbix.tmp
+*.abf
+.pbi/localSettings.json
+.pbi/cache.abf
+
+# Local extensionless duplicate files
+stockstatus_tk
+stockstatus_unf
